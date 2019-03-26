@@ -1,1 +1,35 @@
-Readme file. 
+Escalate -  A intentionally developed windows vulnerable virtual machine.The main focous of this machine is to learn Windows
+Post Exploitation (Privilege Escalation) Techniques.
+
+
+"Escalate" Windows vulnerable virtual machine contains different features.
+
+1. 15+ ways of Privilege Escalation 
+2. Vertical Privilege Escalation 
+3. Horizontal Privilege Escalation
+4. Multi-level Privilege Escalation 
+
+Windows Privilege Escalation Techniques, which are used in our vulnerable virtual machine.  
+
+1. Buffer Overflow
+2. DLL Injection 
+3. DLL Hijacking 
+4. Token Manipulation 
+5. Insecure Files Permission 
+6. Insecure Folders Permission
+7. Insecure Service Permission
+8. Insecure Registery Permission
+9. Runas
+10. AlwaysInstallElevated 
+11. Unquoted Service Paths
+12. Kernel Exploitation
+13. Stored Password 
+14. Runas Admin
+15. UAC Bypass 
+16. Many More :) 
+
+
+"Escalate" Download Link (OVA Format) : https://drive.google.com/open?id=1AmxVrBm9aBN8S7YEpRZY4LKNZiHp8yk- 
+
+
+
